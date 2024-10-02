@@ -7,8 +7,8 @@ import FramerWrapper from "@/components/animation/FramerWrapper";
 
 export const siteConfig = {
   name: "Vidhu Prakash T P",
-  description: "I am a Experienced Full Stack Web Developer",
-  url: "https://VidhuPrakash.vercel.app",
+  description: "Experienced Full Stack Web Developer",
+  url: "https://vidhuprakash.vercel.app",
 };
 export default function Home() {
   return (
